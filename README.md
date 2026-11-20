@@ -136,9 +136,10 @@ int main()
 
 !nvcc -arch=sm_75 matrix_add_unified_memset_compare.cu -o unified_test
 !./unified_test
+```
 ## OUTPUT:
 SHOW YOUR OUTPUT HERE
 <img width="491" height="78" alt="image" src="https://github.com/user-attachments/assets/f7c62aea-62e6-49ba-9cc8-347f3f727c8b" />
-```
+
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
