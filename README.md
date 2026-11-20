@@ -139,6 +139,8 @@ int main()
 ```
 ## OUTPUT:
 SHOW YOUR OUTPUT HERE
+
+
 <img width="491" height="78" alt="image" src="https://github.com/user-attachments/assets/f7c62aea-62e6-49ba-9cc8-347f3f727c8b" />
 
 ## RESULT:
